@@ -23,3 +23,5 @@ gpgcheck=0
 enabled=1
 
 ```
+
+3. eclipse 新建maven-archetype-site项目
