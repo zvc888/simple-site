@@ -25,3 +25,7 @@ enabled=1
 ```
 
 3. eclipse 新建maven-archetype-site项目
+
+
+附录：
+[swagger生成站点](https://github.com/kongchen/swagger-maven-plugin.git "swagger生成站点")
