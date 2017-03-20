@@ -23,7 +23,7 @@
     <menu name="Maven 2.0">
       <item name="APT Format" href="format.html"/>
       <item name="FAQ" href="faq.html"/>
-       <item name="FAQ1" href="api/faq.html"/>
+       <item name="env" href="env.html"/>
       <item name="Xdoc Example" href="xdoc.html"/>
       <item name="Markdown Example" href="api/demo.html"/>
     </menu>
